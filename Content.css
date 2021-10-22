@@ -1,0 +1,171 @@
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: 'PT Mono', sans-serif;
+  position: relative;
+  background-color: #818181;
+  color: #FFFFFF;
+     }
+
+.pool {
+  position: relative;
+  width: 1440px;
+  margin: 0 auto;
+
+}
+
+.blockH {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  margin: 50px;
+  overflow:hidden;
+}
+
+.block {
+  position: relative;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.flexcont {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 25px;
+}
+
+.space {
+  margin-top: 300px;
+  margin-bottom: 600px;
+}
+
+.TypeBlockH
+{
+  display: flex;
+  align-items: flex-end;
+}
+
+.w1 {
+  position: relative;
+  align: right;
+}
+#bottom {
+  top: 1000px;
+}
+
+#up1 {
+  top: 500px;
+}
+
+#up2 {
+  top: 800px;
+}
+
+
+#w1 {
+ top: 66px;
+ left: 50px;
+ width:100%;
+
+}
+
+#w2 {
+  left: 364px;
+  bottom: 812px;
+}
+
+#w3 {
+ bottom: 852px;
+ left:403px;
+}
+
+#w4 {
+  bottom: 892px;
+  left: 340px;
+}
+
+#w5 {
+ left:92px;
+}
+
+#w6 {
+ top:86px;
+ left: 151px;
+}
+
+#w7 {
+  bottom:35px;
+  left: 82px;
+
+}
+
+#w8 {
+  bottom: 90px;
+
+}
+
+#w9 {
+left: 190px;
+bottom: 170px;
+}
+
+#w10 {
+ float: right;
+ bottom: 1000px;
+}
+
+#w11 {
+
+}
+
+#w12 {
+  float: right;
+  bottom: 870px;
+}
+
+#w13 {
+  left: 405px;
+  bottom: 900px;
+
+}
+
+#w14 {
+ left:301px;
+
+}
+
+#w15 {
+ left:109px;
+ bottom:50px;
+}
+
+#w16 {
+ left:324px;
+ bottom: 100px;
+}
+
+#sign {
+  display: flex;
+  align-items: flex-end;
+}
+
+h1 {
+  font-family: 'PT Mono';
+font-style: normal;
+font-weight: bold;
+font-size: 144px;
+line-height: 161px;
+}
+
+h3 {
+  font-family: 'PT Mono';
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 54px;
+padding-bottom: 0px;
+}
+
+ img {
+  position: relative;
+}
